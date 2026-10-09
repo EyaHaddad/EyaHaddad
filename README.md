@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Final-year Software Engineering student @ ISIMM</b><br/>
-  Building AI systems end to end: LLM agents, RAG, federated learning and secure full-stack apps.
+  Building AI systems and full-stack apps.
 </p>
 
 <p align="center">
